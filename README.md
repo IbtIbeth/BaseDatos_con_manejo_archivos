@@ -1,4 +1,4 @@
-# BaseDatos_con_manejo_archivos
+# Base de Datos con manejo de archivos
 
 En un documento .txt que en este caso se llama empleados.txt se hacen altas, bajas, consultas, modificaciones mediante el manejo de archivos con c++.
 
